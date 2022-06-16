@@ -1,0 +1,29 @@
+.navBar{
+    background-color: black;
+}
+
+.footer{
+    background-color: rgba(0, 255, 179, 0.74);
+}
+
+.principalIndex{
+    padding: 2rem;
+}
+
+.cardsProducts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px ;
+}
+
+.contenedorForm{
+    width: 50%;
+    padding: 1rem;
+}
+
+.formContacto{
+width: 75%;
+padding: 2rem;
+}
+
